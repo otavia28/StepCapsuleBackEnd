@@ -8,4 +8,5 @@ spring:
   # 超时时间
   session:
     timeout: 86400
-
+server:
+  address: 0.0.0.0
