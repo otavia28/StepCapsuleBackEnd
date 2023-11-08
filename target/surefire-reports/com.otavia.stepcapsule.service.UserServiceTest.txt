@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.otavia.stepcapsule.service.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.385 s <<< FAILURE! - in com.otavia.stepcapsule.service.UserServiceTest
+userRegister  Time elapsed: 0.025 s  <<< ERROR!
+com.otavia.stepcapsule.exception.BusinessException: 请求参数错误
+	at com.otavia.stepcapsule.service.UserServiceTest.userRegister(UserServiceTest.java:42)
+
