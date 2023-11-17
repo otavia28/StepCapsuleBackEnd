@@ -2,7 +2,7 @@ spring:
   # DataSource Config
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://stepcapsule:3306/StepCapsule
+    url: jdbc:mysql://stepcapsulemysql:3306/StepCapsule
     username: root
     password: admin
   # 超时时间
