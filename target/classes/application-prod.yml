@@ -2,9 +2,9 @@ spring:
   # DataSource Config
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://124.220.207.45:3306/StepCapsule
-    username: otavia28
-    password: 20010128
+    url: jdbc:mysql://stepcapsule:3306/StepCapsule
+    username: root
+    password: admin
   # 超时时间
   session:
     timeout: 86400
